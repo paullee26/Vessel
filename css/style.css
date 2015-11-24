@@ -1,4 +1,4 @@
-html, vody {
+html, body {
   overflow-x:hidden;
 }
 body {
@@ -15,7 +15,6 @@ h2 {
   font-weight: normal;
   margin-bottom: 5px;
 
-}
 
 p {
   font-size: 16px;
