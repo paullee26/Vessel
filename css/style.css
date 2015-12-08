@@ -61,7 +61,7 @@ p {
     width: 46%;
   }
   .one-third {
-    width: 29.33333%;
+    width: 20%;
   }
   .one-fourth {
     width: 21%
@@ -72,7 +72,7 @@ p {
     width: 1170px;
   }
 }
-@media (min-width: 18000px) and (orientation: landscape) {
+@media (min-width: 800px) and (orientation: landscape) {
   .container{
     margin: 0 auto;
     max-width: 18000px;
@@ -298,12 +298,13 @@ p {
    font-size:13px;
    margin-top: 30px;
  }
- .testimonials.staggered {
+ .testimonials .staggered {
   margin-top: 20px;
  }
 /*CTA*/
 .cta {
   text-align: center;
+  margin-bottom: 40px;
 }
  .cta h2 {
    color:#3498DB;
