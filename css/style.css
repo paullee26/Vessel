@@ -391,6 +391,9 @@ p {
    list-style-type: none;
    margin-bottom: 15px;
  }
+ .left-nav .items .active {
+  background:#333333;
+ }
  .left-nav .items ul li a {
    color:#FFFFFF;
    text-decoration: none;
